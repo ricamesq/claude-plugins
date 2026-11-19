@@ -1,0 +1,12 @@
+{
+  "name": "ricamesq-plugins",
+  "description": "Plugins do Claude Code de Ricardo Augusto Mesquita para aulas e projetos de saúde digital.",
+  "owner": { "name": "Ricardo Augusto Mesquita" },
+  "plugins": [
+    {
+      "name": "video-aula-animada",
+      "source": "./plugins/video-aula-animada",
+      "description": "Vídeo-aula curta e animada (16:9) a partir de um roteiro em JSON, com Remotion; exemplo pronto do débito cardíaco."
+    }
+  ]
+}

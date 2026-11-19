@@ -1,0 +1,6 @@
+{
+  "name": "video-aula-animada",
+  "version": "0.1.0",
+  "description": "Vídeo-aula curta e animada (16:9) a partir de um roteiro em JSON, com Remotion; exemplo pronto do débito cardíaco.",
+  "author": { "name": "Ricardo Augusto Mesquita" }
+}
